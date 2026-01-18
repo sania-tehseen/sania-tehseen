@@ -10,7 +10,7 @@ I’m currently working on<br> Wise Wallet (a FinTech expense tracker) and deplo
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sania-tehseen&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sania-tehseen&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sania-tehseen&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sania-tehseen&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact )
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sania-tehseen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
